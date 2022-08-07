@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "ecommerceserviceapi",
+  "description": "This eCommerce Service API revolves around the eccommerce service, where admin can add several products of different categories and Customer can select the products and purchase.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkeycode/eCommerceServiceAPI.git"
+  },
+  "keywords": [
+    "Ecommerce"
+  ],
+  "author": "Lalit Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkeycode/eCommerceServiceAPI/issues"
+  },
+  "homepage": "https://github.com/devkeycode/eCommerceServiceAPI#readme"
+}
